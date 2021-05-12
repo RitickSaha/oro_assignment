@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 25 25" fill="none">
+<g xmlns="http://www.w3.org/2000/svg" id="Group 3">
+<circle id="Oval" cx="6.25" cy="5.25" r="4.75" fill="#FFB631" stroke="black"/>
+<path id="Line" d="M6.25 10.25V17.25" stroke="black" stroke-linecap="square"/>
+<circle id="Oval_2" cx="6.25" cy="5.25" r="1.25" fill="black"/>
+</g>
+<g xmlns="http://www.w3.org/2000/svg" id="Group 4">
+<circle id="Oval" opacity="0.254929" cx="6.25" cy="16" r="6.25" fill="#3688E6"/>
+<circle id="Oval_2" cx="6.25" cy="16" r="2.75" fill="#3688E6" stroke="white"/>
+</g>
+</svg>
